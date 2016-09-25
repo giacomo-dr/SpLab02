@@ -5,7 +5,7 @@
 	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-5.0.4.jar" sourcepath="lib/src.zip"/>
 	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-analysis-5.0.4.jar"/>
 	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-commons-5.0.4.jar"/>
-	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-tree-5.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-tree-5.0.4.jar" sourcepath="lib/src.zip"/>
 	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-util-5.0.4.jar"/>
 	<classpathentry kind="lib" path="/Users/delrig/eclipsews/SimpleMetrics/lib/asm-xml-5.0.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
